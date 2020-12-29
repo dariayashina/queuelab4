@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Nick\source\repos\Queue\App\main.cpp(37,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nick\source\repos\Queue\App\main.cpp(47,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  App.vcxproj -> C:\Users\Nick\source\repos\Queue\Debug\App.exe

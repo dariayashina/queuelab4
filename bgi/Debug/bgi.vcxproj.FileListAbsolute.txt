@@ -1,0 +1,2 @@
+C:\Users\Nick\source\repos\Queue\Debug\bgi.pdb
+C:\Users\Nick\source\repos\Queue\bgi\Debug\bgi.pdb
