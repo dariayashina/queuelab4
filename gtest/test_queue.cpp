@@ -1,5 +1,5 @@
 #include "gtest.h"
-#include "Queue.h"
+#include "../Queue/Queue.h"
 
 TEST(queue, can_create_default_queue)
 {
