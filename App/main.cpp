@@ -1,6 +1,6 @@
-#include "graphics.h"
-#include "winbgi.h"
-#include "Queue.h"
+#include "../bgi/graphics.h"
+#include "../bgi/winbgi.h"
+#include "../Queue/Queue.h"
 #include <iostream>
 #include <string>
 
